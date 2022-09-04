@@ -12,3 +12,5 @@ Uporabljal bom program *Mathematica*.
 4. Primerjal delež delovno aktivnega prebivalstva po letih z grafi
 5. Analiziral vse pridobljene vrednosti in podal ugotovitve
 
+### Posnetek:
+[POVEZAVA] https://youtu.be/WW4_1k24TKk
