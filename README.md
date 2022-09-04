@@ -13,4 +13,4 @@ Uporabljal bom program *Mathematica*.
 5. Analiziral vse pridobljene vrednosti in podal ugotovitve
 
 ### Posnetek:
-[POVEZAVA] https://youtu.be/WW4_1k24TKk
+[POVEZAVA(https://youtu.be/WW4_1k24TKk)
